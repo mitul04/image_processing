@@ -1,10 +1,2 @@
-# ignore program-generated files
-# they're stored in current working directory
-
-gray.jpg
-transpose.jpg
-inverted.jpg
-box_blur_radius_*.jpg
-find_edges.jpg
-enhance.jpg
-unsharp_radius_*.jpg
+# destination for modified files
+images/
